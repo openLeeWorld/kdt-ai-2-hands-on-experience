@@ -120,6 +120,7 @@ docker compose -f docker-compose.dev.yml up -d   # postgres, redis (+관측 스�
 
 | 역할 | 담당자 |
 | --- | --- |
+| **PM** | 이동건 |
 | **Frontend** | 이기필 |
 | **Backend Gateway** | 이기필 |
 | **AI Agent** | 이수범, 남주원 |
