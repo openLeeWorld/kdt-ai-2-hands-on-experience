@@ -116,6 +116,18 @@ docker compose -f docker-compose.dev.yml up -d   # postgres, redis (+관측 스�
 - **AI 에이전트 규칙**: [`AGENTS.md`](AGENTS.md) — 커밋/PR 무단 실행 금지, 검증 후 보고, 한국어+영어+숫자만
 - **보안 규칙**: [`docs/security-rules.md`](docs/security-rules.md) — `.env*`/키 커밋 금지, PII 마스킹
 
+## 역할
+
+| 역할 | 담당자 |
+| --- | --- |
+| **Frontend** | 이기필 |
+| **Backend Gateway** | 이기필 |
+| **AI Agent** | 이수범, 남주원 |
+| **Mock Financial Service** | 이동건 |
+| **데이터/인프라** | 현준수 |
+| **보안/검증** | 현준수 |
+| **관측** | 이기필 |
+
 ## 문서
 
 - [`AGENTS.md`](AGENTS.md) · [`CLAUDE.md`](CLAUDE.md) — 저장소 규칙 / AI 코딩 가이드
